@@ -31,6 +31,7 @@ elastic-beanstalk-nodejs/
   pip3 install --upgrade pip
   pip3 --version
   pip3 install awsebcli
+  npm install express
   ```
 * Elastic Beanstalk CLI (`pip install awsebcli`)
 * Node.js installed

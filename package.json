@@ -1,4 +1,11 @@
 {
+  "name": "eb-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app on AWS Elastic Beanstalk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^5.1.0"
   }

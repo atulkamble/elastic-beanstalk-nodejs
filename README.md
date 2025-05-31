@@ -130,7 +130,13 @@ Once deployed, `eb open` will open the public URL of your app, and you should se
 ```
 Hello from Elastic Beanstalk 🚀!
 ```
-
+deletion
+```
+delete eb env.
+delete eb 
+delete lb (automatically)
+delete s3 backup
+```
 ---
 
 ### 📌 Notes

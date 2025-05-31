@@ -32,7 +32,8 @@ elastic-beanstalk-nodejs/
   pip3 --version
   pip3 install awsebcli
   npm install express
-
+  // https://nodejs.org/en
+  node -v
   git clone https://github.com/atulkamble/elastic-beanstalk-nodejs.git
   cd elastic-beanstalk-nodejs
   node app.js

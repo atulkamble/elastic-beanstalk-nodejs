@@ -28,6 +28,7 @@ elastic-beanstalk-nodejs/
   ```
   brew install python3
   python3 --version
+  pip3 install --upgrade pip
   pip3 --version
   pip3 install awsebcli
   ```

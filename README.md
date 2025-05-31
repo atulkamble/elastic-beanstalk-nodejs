@@ -25,6 +25,12 @@ elastic-beanstalk-nodejs/
 
 * AWS Account
 * AWS CLI configured (`aws configure`)
+  ```
+  brew install python3
+  python3 --version
+  pip3 --version
+  pip3 install awsebcli
+  ```
 * Elastic Beanstalk CLI (`pip install awsebcli`)
 * Node.js installed
 
